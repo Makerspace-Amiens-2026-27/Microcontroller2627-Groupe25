@@ -19,7 +19,7 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Marwane Hammouchi | … | [@MarwaneHammouchi](https://github.com/MarwaneHammouchi)|
+| Marwane Hammouchi | I2 - electronique | [@MarwaneHammouchi](https://github.com/MarwaneHammouchi)|
 | Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
 
 ## Rôles
