@@ -19,7 +19,7 @@ title: Équipe et rôles
 
 | Membre | Formation | Compte GitHub |
 |---|---|---|
-| Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
+| Marwane Hammouchi | … | [@MarwaneHammouchi](https://github.com/MarwaneHammouchi)|
 | Prénom Nom | … | [@pseudo](https://github.com/pseudo) |
 
 ## Rôles
